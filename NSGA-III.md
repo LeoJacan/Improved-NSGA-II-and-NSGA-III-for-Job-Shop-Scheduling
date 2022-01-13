@@ -1,3 +1,4 @@
+### **Nondominated Sorting Genetic Algorithm III（NSGA-III）**
 ### ✏前言
 
 前面的文章有介紹了基因演算法 (GA) 衍伸出的非凌越排序基因演算法 (NSGA-II)，而本文將要介紹的 NSGA-III 是從 NSGA-II 的基礎進行改良改良而來，因此該演算法的架構與 NSGA-II 相似，NSGA-III 由 Kalyanmoy Deb 與 Himanshu Jain 於 2014 年發表，專門被用來求解高目標最佳化問題。本篇文章將要介紹何謂 NSGA-III ，並透過 Python 來進行實作，求解生產排程問題。
