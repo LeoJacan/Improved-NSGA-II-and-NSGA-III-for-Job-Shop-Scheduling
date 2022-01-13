@@ -5,5 +5,5 @@ Learning how to implement a improved NSGA-II algorithm and NSGA-III algorithm fo
 我們改良 NSGA-II 的方法分為兩種，第一個式融合差分演算法（differential evolution）中的變異因子公式，第二個是線性調整選擇機制。
 
 GA 融合差分演算法：[文章](https://github.com/LeoJacan/Improved-NSGA-II-and-NSGA-III-for-Job-Shop-Scheduling/blob/main/GA%20%E8%9E%8D%E5%90%88%E5%B7%AE%E5%88%86%E6%BC%94%E7%AE%97%E6%B3%95.md) / [code]()  
-NSGA-II 線性調整　：[文章]() / [code]()  
+NSGA-II 線性調整　：[文章](https://github.com/LeoJacan/Improved-NSGA-II-and-NSGA-III-for-Job-Shop-Scheduling/blob/main/NSGA-II%20%E7%B7%9A%E6%80%A7%E8%AA%BF%E6%95%B4.md) / [code]()  
 NSGA-III　　　　　：[文章](https://github.com/LeoJacan/Improved-NSGA-II-for-Job-Shop-Scheduling/blob/main/NSGA-III.md) / [code]()
